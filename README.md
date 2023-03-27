@@ -1,6 +1,6 @@
 # 🎥👨🏽‍💻🏄🏽 Ebite Samuel
 
-** 'Digital Nomad (Developer/Filmmaker/Analyst)' **
+**'Digital Nomad (Developer/Filmmaker/Analyst)'**
 <!--
 **SamuelEbite/SamuelEbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
