@@ -41,6 +41,7 @@ Here are some of the tools and languages I have experience with and use in proje
  <summary><h3>👨‍💻 Samuel's Tech Journey</h3></summary>
    My journey started as a wedding filmmaker, where I learned how to tell compelling visual stories. However, I wanted to explore my passion for technology and creativity further, so I enrolled in a national institution for information and technology to study software development. There, I learned how to use tools like SQL, Python, JavaScript, HTML, CSS, and various frameworks to create innovative software solutions.
 
+ 
 After completing my studies, I progressed into making commercials and festival promotional content, applying my newfound software development skills to create engaging visuals that conveyed a message effectively. Along the way, I earned a Professional Diploma in Directing for Filmmaking from Delyork Creative Academy, and my films received critical acclaim at several film festivals.
 
 Driven by my passion for technology, I continued my education by getting certified from Harvard in Computer Science (CS50). Now, I aim to create value by combining my expertise in software development and filmmaking to develop innovative solutions that are both user-friendly and technologically advanced.
